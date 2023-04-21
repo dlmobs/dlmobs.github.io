@@ -1,2 +1,3 @@
-# dlmobs.github.io
-website server
+# farsi-class  
+
+limitation: only max 2 word verbs
